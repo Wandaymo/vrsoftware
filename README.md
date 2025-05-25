@@ -37,7 +37,7 @@ Este projeto é um sistema de gerenciamento de vendas desenvolvido em Java com i
 Antes de executar o projeto, você precisará ter instalado:
 
 - Java JDK 18 ou superior
-- PostgreSQL 12 ou superior
+- PostgreSQL 17 ou superior
 - Maven 3.6 ou superior
 
 ## 🚀 Configuração do Ambiente
