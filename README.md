@@ -62,12 +62,12 @@ Antes de executar o projeto, você precisará ter instalado:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-vendas-java.git
+   git clone https://github.com/Wandaymo/vrsoftware.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd sistema-vendas-java
+   cd vrsoftware
    ```
 
 3. Compile e execute:
@@ -115,13 +115,3 @@ pom.xml                        # Configuração Maven
 3. **Relatórios**:
     - Agrupamento por cliente e produto
     - Cálculo de totais e subtotais
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Siga estes passos:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/incrivel`)
-3. Commit suas mudanças (`git commit -m 'Adicionando feature incrível'`)
-4. Push para a branch (`git push origin feature/incrivel`)
-5. Abra um Pull Request
